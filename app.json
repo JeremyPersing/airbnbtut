@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "airbnb-card-tut",
-    "slug": "airbnb-card-tut",
+    "name": "airbnbtut",
+    "slug": "airbnbtut",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
